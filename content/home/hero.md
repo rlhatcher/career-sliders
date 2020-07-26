@@ -49,7 +49,7 @@ hero_media = "banner.png"
 # Note. An optional note to show underneath the links.
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Career Sliders are Awesome**
 
 Boost your career with **Career Sliders TM**
 
