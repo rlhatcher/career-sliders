@@ -51,5 +51,5 @@ hero_media = "banner.png"
 
 **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
 
-Build **Anything** with Widgets
+Boost your careeer with **Career Sliders TM**
 
