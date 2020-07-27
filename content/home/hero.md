@@ -37,14 +37,14 @@ hero_media = "banner.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "courses/"
-  label = "About the Sliders"
+  url = "courses/example"
+  label = "Start Here"
   icon_pack = "fas"
   icon = "book-reader"
   
 [cta_alt]
-  url = "post/sliders"
-  label = "Go to the Sliders"
+  url = "sliders/info"
+  label = "View the Sliders"
 
 # Note. An optional note to show underneath the links.
 +++

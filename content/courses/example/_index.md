@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
+linktitle: How to use the sliders
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
