@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Sliders"
-  url = "post/sliders"
+  url = "courses/sliders"
   weight = 20
 
 [[main]]

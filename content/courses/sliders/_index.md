@@ -5,7 +5,7 @@ summary: Learn how to use Academic's docs layout for publishing online courses, 
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Sliders
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-## Introduction
+## Welcome to Career Sliders
 
 This feature can be used for publishing content such as:
 
