@@ -21,11 +21,9 @@ menu:
     weight: 1
 ---
 
-## Welcome to Career Sliders
+## What is a career slider?
 
 ![blank career slider](blank-slider.svg)
-
-## What is a career slider?
 
 A **Career Slider** is a graphical representation of a progressive set of individual **behaviours** relating to a common theme.
 
