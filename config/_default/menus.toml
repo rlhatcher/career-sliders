@@ -5,7 +5,7 @@
 
 [[main]]
   name = "About"
-  url = "courses/example"
+  url = "about/info"
   weight = 10
 
 [[main]]
