@@ -49,6 +49,6 @@ You may find it useful to use one particular career slider to set expectations w
 
 You may find it useful to set yourself behavioural targets using the career sliders.
 
-Use them however works best for you and don't be limited by the career sliders showcases here. You can always create your own!
+Use them however works best for you and don't be limited by the career sliders listed here. You can always create your own!
 
 Now, take a look at the [sliders](../../sliders/info/change).
