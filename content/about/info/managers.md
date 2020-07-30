@@ -18,6 +18,16 @@ weight: 3
 
 Delivering tricky feedback
 
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
+
+{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+
+{{< icon name="comment" pack="fas" >}} Terminal
+
 ## Setting Expectations
 
 Career sliders can be used to frame conversations around minimum behaviour expectations for a particular role or level.

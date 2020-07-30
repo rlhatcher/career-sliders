@@ -16,8 +16,6 @@ weight: 1
 
 ## What is a career slider?
 
-![blank career slider](../blank-slider.svg)
-
 A **Career Slider** is a graphical representation of a progressive set of individual **behaviours** relating to a common theme.
 
 Career sliders are not an exhaustive list of possible professional behaviours. There may be others that are relevant and important in your organisation, or others that are not easily represented in a career slider.
@@ -27,6 +25,8 @@ Career Sliders are relevant for people on the **individual contributor track** o
 Career sliders are also **industry-agnostic**.
 
 ## What does it represent?
+
+![blank career slider](../blank-slider.svg)
 
 Career sliders represent a progression of demonstrated and expected behaviours, with the least desirable behaviour to the left of the slider and the most desirable behaviour to the right. Individuals can, and should, be pushing themselves consistently as far to the right as possible regardless of their role or level – but there will likely be minimum behavioural expectations for certain roles and levels.
 
@@ -42,4 +42,7 @@ You may find it useful to use one particular career slider to set expectations w
 
 You may find it useful to set yourself behavioural targets using the career sliders.
 
-Use them however works best for you and don't be limited by the career sliders listed here. You can always create your own!
+Use them in whatever way you find useful.
+
+{{% alert note %}}
+Don't be constrained by the Career Sliders listed here. You can always create your own.{{% /alert %}}

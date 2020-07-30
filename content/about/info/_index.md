@@ -32,10 +32,8 @@ After several years of having unstructured conversations with team members aroun
 1. There were common behavioural themes that the conversations tended to center around
 1. Graphical representations made the conversations more successful
 
-And so the idea of representing these common behavioural themes and levels as a series of **Career Sliders** was born.
+{{< icon name="lightbulb" pack="fas" >}} And so the idea of representing these common behavioural themes and levels as a series of **Career Sliders** was born.
 
-See **Introduction** for more information about what a career slider is and **Guidance for Individuals** and **Guidance for Managers** for more information about the types of scenarios in which **Career Sliders** can be useful.
+{{< icon name="eye" pack="fas" >}} See [**Sliders Introduction**](../../about/info/sliders-intro/) for more information about what a career slider is and [**Guidance for Individuals**](../../about/info/individuals/) and [**Guidance for Managers**](../../about/info/managers/) for more information about the types of scenarios in which **Career Sliders** can be useful.
 
-When you understand what the sliders are and how you can use them, view the [sliders](../../sliders/info/change).
-
-![behaviour image](behaviour.svg)
+When you understand what the sliders are and how you can use them, view the [**Sliders**](../../sliders/info/change).
