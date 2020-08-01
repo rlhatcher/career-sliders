@@ -21,8 +21,8 @@ menu:
     weight: 1
 ---
 
-{{< icon name="book" pack="fas" >}} You've read about what Career Sliders are
+* {{< icon name="book" pack="fas" >}} You've read about what Career Sliders are
 
-{{< icon name="comment" pack="fas" >}} You've thought about how you might use them
+* {{< icon name="comment" pack="fas" >}} You've thought about how you might use them
 
-{{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
+* {{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
