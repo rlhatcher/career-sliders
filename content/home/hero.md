@@ -49,6 +49,6 @@ hero_media = "career slider3-final.png"
 # Note. An optional note to show underneath the links.
 +++
 
-Advance your career with **Career Sliders**
+**Advance your career with Career Sliders**
 
 A tool to help advance your career to the next level, understand your strengths and growth areas, set expectations and have difficult conversations
