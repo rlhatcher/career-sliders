@@ -43,6 +43,3 @@ You may find it useful to use one particular career slider to set expectations w
 You may find it useful to set yourself behavioural targets using the career sliders.
 
 Use them in whatever way you find useful.
-
-{{% alert note %}}
-Don't be constrained by the Career Sliders listed here. You can always create your own.{{% /alert %}}

@@ -26,3 +26,6 @@ menu:
 * {{< icon name="comment" pack="fas" >}} You've thought about how you might use them
 
 * {{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
+
+{{% alert note %}}
+Don't be constrained by the Career Sliders listed here. You can always create your own.{{% /alert %}}
