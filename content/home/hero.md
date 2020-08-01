@@ -51,4 +51,4 @@ hero_media = "career slider3-final.png"
 
 Advance your career with **Career Sliders**
 
-A tool to help advance your career to the next level, set expectations and have difficult conversations
+A tool to help advance your career to the next level, understand your strengths and growth areas, set expectations and have difficult conversations
