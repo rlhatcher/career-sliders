@@ -29,7 +29,7 @@ In some organisations, the **how** even forms part of the performance review pro
 
 After several years of having unstructured conversations with team members around the **how**, I was finding more and more that:
 
-1. There were common behavioural themes that the conversations tended to center around
+1. There were common behavioural themes that the conversations tended to centre around
 1. Graphical representations made the conversations more successful
 
 {{< icon name="lightbulb" pack="fas" >}} And so the idea of representing these common behavioural themes and levels as a series of **Career Sliders** was born.
