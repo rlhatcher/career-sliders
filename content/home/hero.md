@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Career Sliders"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "sliders-hero2.png"
+hero_media = "career slider3-final.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,7 +49,6 @@ hero_media = "sliders-hero2.png"
 # Note. An optional note to show underneath the links.
 +++
 
-**Career Sliders are Awesome**
+Advance your career with **Career Sliders**
 
-Boost your career with **Career Sliders TM**
-
+A tool to help advance your career to the next level, set expectations and have difficult conversations
