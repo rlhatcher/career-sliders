@@ -29,5 +29,6 @@ menu:
 
 {{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
 
-{{% alert note %}}
-Don't be constrained by the Career Sliders listed here. You can always create your own.{{% /alert %}}
+**Don't be constrained by the Career Sliders listed here. You can always create your own.**
+
+![sliders logo blue green](../sliders-hero-blue-green.svg)
