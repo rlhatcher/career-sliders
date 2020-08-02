@@ -21,11 +21,13 @@ menu:
     weight: 1
 ---
 
-* {{< icon name="book" pack="fas" >}} You've read about what Career Sliders are
+## Welcome to the home of the Sliders
 
-* {{< icon name="comment" pack="fas" >}} You've thought about how you might use them
+{{< icon name="book" pack="fas" >}} You've read about what Career Sliders are about
 
-* {{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
+{{< icon name="comment" pack="fas" >}} You've thought about how you might use them
+
+{{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
 
 {{% alert note %}}
 Don't be constrained by the Career Sliders listed here. You can always create your own.{{% /alert %}}

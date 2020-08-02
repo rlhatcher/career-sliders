@@ -17,7 +17,7 @@ hero_media = "career slider3-final.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#1e1a4a"
+  color = "#404f75"
   
   # Background gradient.
   # gradient_start = "#1e1a4a"
@@ -51,4 +51,4 @@ hero_media = "career slider3-final.png"
 
 **Advance your career with Career Sliders**
 
-A tool to help you advance your career to the next level; understand your strengths and growth areas; set expectations and have difficult conversations
+A tool to help you push your career to the next level; understand your behavioural strengths and growth areas; set behavioural expectations and have difficult conversations
