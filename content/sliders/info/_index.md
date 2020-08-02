@@ -31,4 +31,4 @@ menu:
 
 **Don't be constrained by the Career Sliders listed here. You can always create your own.**
 
-![sliders logo blue green](../sliders-hero-blue-green.png)
+![sliders logo blue green](sliders-hero-blue-green.png)
