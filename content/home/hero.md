@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "sliders-hero-green-white.png"
+hero_media = "hero-image.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
