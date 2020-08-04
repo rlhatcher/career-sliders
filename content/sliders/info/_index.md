@@ -5,7 +5,7 @@ summary: List of Career Sliders
 weight: 1
 
 # Page metadata.
-title: ""
+title: Career Sliders
 date: "2018-09-09T00:00:00Z"
 lastmod: "2020-07-27T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-# Welcome to the home of the Sliders
+## Welcome to the home of the Sliders
 
 {{< icon name="book" pack="fas" >}} You've read about what Career Sliders are about
 
