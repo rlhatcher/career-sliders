@@ -79,3 +79,7 @@ More recently my focus has switched towards managing managers. Helping average m
 I live in a town called Canterbury, on the South East coast of England in the UK, and share a home with my husband and son.
 
 Becoming a mother has been both the most rewarding and most challenging experience of my life. Juggling parenthood with full-time work is a balancing act that I continue to refine, but I wouldn't have it any other way.
+
+I created Career Sliders as a way to visualise the more behavioural aspects of work with the goal of helping individuals grow and to making it easier for me and my managers to frame conversations around behavioural growth.
+
+I hope you find them useful.

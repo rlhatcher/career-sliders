@@ -14,37 +14,34 @@ menu:
 weight: 3
 ---
 
-## Delivering Difficult Feedback
+_On this page you will find some examples of how you might use the Career Sliders as a **manager**. These are just examples and not an exhaustive list. Use the sliders however you find them useful. There are no rules!_
 
-Delivering tricky feedback
+## As part of a formal performance management framework
 
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}}
+Oftentimes, annual performance reviews centre around performance goals - i.e. the **what** an individual achieves. But we all know there is more to being a high performer than purely **what** an individual achieves and that, actually, **how** an individual achieves their goals and approaches their day-to-day activities can be just as important.
 
-{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
+Sometimes the **how** also forms part of the performance review process, but it can be challenging for managers to understand how to assess individuals in a transparent, fair and consistent fashion. This is where Career Sliders can help.
 
-{{< icon name="comment" pack="fas" >}} Terminal
+Regardless of whether performance reviews at your organisation include assessing **how** an individual goes about achieving their goals or not, if you don't already have a framework in place for doing so, Career Sliders can be used to help you frame conversations over the year relating to the **how** and also used as part of a formal performance review.
 
-## Setting Expectations
+## To deliver difficult feedback
 
-Career sliders can be used to frame conversations around minimum behaviour expectations for a particular role or level.
+Having difficult feedback conversations with your team members is one of the hardest aspects of being a manager. It's a tough but necessary evil if you care about the growth and development of your team and the individuals within it. Having these conversations unstructured is even harder and here's where Career Sliders can come in handy.
 
-Below is an example of minimum bahvioural expectations at certain levels/roles. These will vary from organisation to organisation.
+You can use the Career Sliders - any number of them, or just one - to help team members visualise and understand where they are at currently and where you expect them to be.
+
+*Check out [this blog post](../../../post/delivering-difficult-feedback) for more thoughts on how to deliver difficult feedback well.*
+
+## To set expectations for an individual
+
+Career sliders can be used to frame conversations around minimum behaviour expectations for a particular role or level. This may be helpful for newcomers joining your team, or for an individual who wants to switch to a different role or get promoted.
+
+## To set expectations across an organisation
+
+You may wish to formalise Career Sliders and set expectations across your organisation. It may be helpful in doing so to align the Career Sliders also to your company values.
+
+Below is an example of how you might do this. Minimum expectations will vary from organisation to organisation and you should set these to whatever makes sense for you in your team, your department, or your organisation.
+
+These, for example, would be my minimum expectations of engineers in my team. To give you some sense of levelling, a T6 would be equivalent to a Senior Software Engineer.
 
 ![minimum expectations by level](../expectations.svg)
-
-
-## Tip 4
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
