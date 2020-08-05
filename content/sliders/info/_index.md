@@ -23,7 +23,7 @@ menu:
 
 ## Welcome to the home of the Sliders
 
-{{< icon name="book" pack="fas" >}} You've read about what Career Sliders are about
+{{< icon name="book" pack="fas" >}} You've read about what Career Sliders are
 
 {{< icon name="comment" pack="fas" >}} You've thought about how you might use them
 
