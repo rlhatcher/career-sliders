@@ -80,6 +80,6 @@ I live in a town called Canterbury, on the South East coast of England in the UK
 
 Becoming a mother has been both the most rewarding and most challenging experience of my life. Juggling parenthood with full-time work is a balancing act that I continue to refine, but I wouldn't have it any other way.
 
-I created Career Sliders as a way to visualise the more behavioural aspects of work with the goal of helping individuals grow and to making it easier for me and my managers to frame conversations around behavioural growth.
+I created Career Sliders as a way to visualise different professional behaviours related to a common theme and share them openly with team members and other managers with the goals of both helping individuals to grow and helping managers to frame conversations around behavioural growth.
 
 I hope you find them useful.
