@@ -30,4 +30,4 @@ Demonstrated by challenging an existing process **and** proposing an alternative
 
 ## Set It
 
-Demonstrated by creating process that **make things better** and taking the time to ensure the process is understood, and, importantly, the problems the process is designed to solve. Individuals who set processes that make things better involve others in the process, gather feedback and iterate, but, ultimately, they aren't afraid to make a decision and try something out.
+Demonstrated by creating process that **make things better** and taking the time to ensure the process is understood, and, importantly, that the process tackles the problem(s) it was designed to solve. Individuals who set processes that make things better involve others in the process, gather feedback and iterate, but, ultimately, they aren't afraid to make a decision and try something out.

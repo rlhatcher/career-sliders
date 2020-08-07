@@ -20,7 +20,7 @@ A **Career Slider** is a graphical representation of a progressive set of indivi
 
 Career sliders are not an exhaustive list of possible professional behaviours. There may be others that are relevant and important in your organisation, or others that are not easily represented in a career slider.
 
-Career Sliders are relevant for people on the **individual contributor track** or on the **management track** and are a helpful aid both to individuals and managers looking to help their team members understand their strengths and where they need to grow.
+Career Sliders are relevant for people on the **individual contributor track** or on the **management track** and are a helpful aid both to individuals and to managers looking to help their team members understand their strengths and where they need to grow.
 
 Career sliders are also **industry-agnostic**.
 
