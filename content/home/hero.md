@@ -51,4 +51,4 @@ hero_media = "hero-image.png"
 
 # **Advance your career with Career Sliders**
 
-A tool to help you push your career to the next level; understand your behavioural strengths and growth areas; set behavioural expectations and have difficult conversations
+A framework for professional behaviours that makes it easy to understand strengths and growth areas and frame conversations around professional behaviours.
