@@ -34,7 +34,7 @@ You can use the Career Sliders - any number of them, or just one - to help team 
 
 ## To set expectations for an individual
 
-Career sliders can be used to frame conversations around minimum behaviour expectations for a particular role or level. This may be helpful for newcomers joining your team, or for an individual who wants to switch to a different role or get promoted.
+Career Sliders can be used to frame conversations around minimum behaviour expectations for a particular role or level. This may be helpful for newcomers joining your team, or for an individual who wants to switch to a different role or get promoted.
 
 ## To set expectations across an organisation
 
