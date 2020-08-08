@@ -28,7 +28,7 @@ If, during the exercise, you're unclear what is expected of you in your role at 
 
 You know the situation. Your manager calls you in for an unexpected 1:1 and wants to talk to you about your behaviour. During the meeting, your manager provides you with some feedback and suggests that you need to "get better at dealing with change", or "deal with feedback better". You come out of the meeting dumb-founded and more than a little confused about what to do with that feedback. 
 
-You can use the Career Sliders proactively with your manager and ask them to help you understand where they think you are currently in relation to a particular slider and what their expectations are of you. 
+You can use the Career Sliders proactively with your manager and ask them to help you understand where they think you are currently in relation to a particular behavioural area and what their expectations of you are.
 
 ## To help understand how to get to the next level on your career journey
 

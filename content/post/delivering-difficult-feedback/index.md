@@ -80,8 +80,10 @@ Getting this wrong could have the unintended effect of damaging your relationshi
 
 ### Base feedback on behaviour, not personality
 Feedback should always be based on behaviour and not on personality. There's a huge difference between the following two statements in terms of how they will be received and how likely someone hearing them will be to take action on the feedback:
-You are rude and offensive
-Your actions can be perceived as rude and offensive (and here are some examples)
+
+* "You are rude and offensive"
+* "Your actions can be perceived as rude and offensive (and here are some examples)"
+
 Remember, you are trying to express the impact of the individual's actions, not who they are. 
 
 ### Give some prior warning, but only a little
