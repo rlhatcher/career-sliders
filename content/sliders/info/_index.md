@@ -9,7 +9,7 @@ title: Career Sliders
 date: "2018-09-09T00:00:00Z"
 lastmod: "2020-07-27T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -19,16 +19,17 @@ menu:
   sliders:
     name: Career Sliders
     weight: 1
+
 ---
 
-## Welcome to the home of the Sliders
+### Welcome to the home of the Sliders
 
-{{< icon name="book" pack="fas" >}} You've read about what Career Sliders are
+{{< icon name="book" pack="fas" >}} You've [read](../../about/info) about what Career Sliders are
 
-{{< icon name="comment" pack="fas" >}} You've thought about how you might use them
+{{< icon name="chart-line" pack="fas" >}} You've thought about how you might use them
 
-{{< icon name="eye" pack="fas" >}} You're ready to view the [Sliders!](../../sliders/info/change)
+{{< icon name="eye" pack="fas" >}} You're ready to view the [Career Sliders!](../../sliders/info/change)
 
-**Don't be constrained by the Career Sliders listed here. You can always create your own.**
+_**Don't be constrained by the Career Sliders listed here. You can always create your own.**_
 
 ![sliders logo blue green](sliders-hero-blue-green.png)

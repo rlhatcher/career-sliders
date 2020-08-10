@@ -18,7 +18,7 @@ weight: 8
 
 ## Neglect It
 
-Demonstrated by seeking others to provide instructions/answers/solutions without first trying to learn a particular area. Individuals who neglect knowledge are often expect problems to be solved by others.
+Demonstrated by seeking others to provide instructions/answers/solutions without first trying to learn a particular area. Individuals who neglect knowledge often expect problems to be solved by others.
 
 ## Learn It
 

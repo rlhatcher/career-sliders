@@ -9,7 +9,7 @@ title: Overview
 date: "2020-07-30T00:00:00Z"
 lastmod: "2020-07-30T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -36,4 +36,6 @@ After several years of having unstructured conversations with team members aroun
 
 {{< icon name="eye" pack="fas" >}} See [**Sliders Introduction**](../../about/info/sliders-intro/) for more information about what a career slider is and [**Guidance for Individuals**](../../about/info/individuals/) and [**Guidance for Managers**](../../about/info/managers/) for more information about the types of scenarios in which **Career Sliders** can be useful.
 
-When you understand what the sliders are and how you can use them, view the [**Sliders**](../../sliders/info/change).
+When you understand what the Sliders are and how you can use them, view the [**Sliders**](../../sliders/info/change).
+
+![escalator image](escalator.jpg)
