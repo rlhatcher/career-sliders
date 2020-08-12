@@ -18,16 +18,16 @@ weight: 12
 
 ## Individual
 
-Demonstrated by engaging in activities that impact only the individual. Individuals who are more junior in their career may operate at this level but should only do so transiently.
+Demonstrated by engaging in activities that only impact themselves. Individuals who are more junior in their career may operate at this level but this should be temporary.
 
 ## Team
 
-Demonstrated by engaging in activities and discussions that impact the wider team. Most individuals on the individual contributor track or managers of a single team should as a minimum be operating at this level.
+Demonstrated by engaging in activities and discussions that impact the wider team. Most individuals on the individual contributor track or managers of a single team should be operating at this level as a minimum.
 
 ## Department
 
-Demonstrated by engaging in activities and discussions that impact the wider department. Individuals who are more senior in their career on the individual contributor or management track should be participating in activities or tasks that benefit a wider audience than a team. Individuals operating at this level may participate in discussions and activities that impact both a team and a wider department.
+Demonstrated by engaging in activities and discussions that impact the wider department. Individuals who are more senior in their career on the individual contributor or management track should be participating in activities or tasks that benefit a wider audience than their team. Individuals operating at this level may take part in discussions and activities that impact both a team and a wider department.
 
 ## Company
 
-Demonstrated by engaging in activities and discussions that impact the wider organisation. Individuals who are more senior in their career on the individual contributor or management track are likely to be participating in activities or tasks that benefit a wider audience than a department. Individuals operating at this level may participate in discussions and activities that impact both a department and the wider organisation.
+Demonstrated by engaging in activities and discussions that impact the wider organisation. Individuals who are more senior in their career on the individual contributor or management track are likely to be participating in activities or tasks that benefit an audience wider than one department. Individuals operating at this level may take part in discussions and activities that impact both a department and the wider organisation.

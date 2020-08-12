@@ -18,17 +18,17 @@ _On this page you will find some examples of how you might use the Career Slider
 
 ## As part of a formal performance management framework
 
-Oftentimes, annual performance reviews centre around performance goals - i.e. the **what** an individual achieves. But we all know there is more to being a high performer than purely **what** an individual achieves and that, actually, **how** an individual achieves their goals and approaches their day-to-day activities can be just as important.
+Annual performance reviews often centre around performance goals - i.e. the **what** an individual achieves. But we all know there is more to being a high performer than that. **How** an individual achieves their goals and approaches their day-to-day activities can be just as important.
 
-Sometimes the **how** also forms part of the performance review process, but it can be challenging for managers to understand how to assess individuals in a transparent, fair and consistent fashion. This is where Career Sliders can help.
+Sometimes the **how** also forms part of the performance review process, but it can be challenging for managers to assess individuals in a transparent, fair and consistent fashion. This is where Career Sliders can help.
 
-Regardless of whether performance reviews at your organisation include assessing **how** an individual goes about achieving their goals or not, if you don't already have a framework in place for doing so, Career Sliders can be used to help you frame conversations over the year relating to the **how** and also used as part of a formal performance review.
+Whether or not performance reviews at your organisation include assessing **how** an individual goes about achieving their goals or not, you need a framework. Career Sliders can be used to help you frame conversations over the year relating to the **how** over the course of the year and as part of a formal performance review.
 
 ## To deliver difficult feedback
 
-Having difficult feedback conversations with your team members is one of the hardest aspects of being a manager. It's a tough but necessary evil if you care about the growth and development of your team and the individuals within it. Having these conversations unstructured is even harder and here's where Career Sliders can come in handy.
+Having difficult feedback conversations with your team members is one of the hardest aspects of being a manager. It's a tough but necessary evil if you care about the growth and development of your team and the people within it. Having these conversations without a structure is even harder and here's where Career Sliders can come in handy.
 
-You can use the Career Sliders - any number of them, or just one - to help team members visualise and understand where they are at currently and where you expect them to be.
+You can use the Career Sliders - any number of them, or just one - to help team members visualise and understand where they're at and where you expect them to be.
 
 *Check out [this blog post](../../../post/delivering-difficult-feedback) for more thoughts on how to deliver difficult feedback well.*
 
@@ -38,9 +38,9 @@ Career Sliders can be used to frame conversations around minimum behaviour expec
 
 ## To set expectations across an organisation
 
-You may wish to formalise Career Sliders and set expectations across your organisation. It may be helpful in doing so to align the Career Sliders also to your company values.
+You may wish to formalise Career Sliders and set expectations across your organisation. If so, you may find it helpful to align the Career Sliders to your company's values.
 
-Below is an example of how you might do this. Minimum expectations will vary from organisation to organisation and you should set these to whatever makes sense for you in your team, your department, or your organisation.
+Below is an example of how you might set expectations. Minimum expectations will vary from organisation to organisation. Set them to whatever makes sense for you in your team, your department, or your organisation.
 
 These, for example, would be my minimum expectations of engineers in my team. To give you some sense of levelling, a T6 would be equivalent to a Senior Software Engineer.
 

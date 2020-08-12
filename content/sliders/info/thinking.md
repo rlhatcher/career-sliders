@@ -22,7 +22,7 @@ Demonstrated by simply responding to instructions from others without understand
 
 ## Mostly Tactical
 
-Demonstrated by thinking/actions that respond to an immediate problem or need. Individuals who are thinking/acting mostly tactically may find they are often too busy putting out fires to investigate the cause of the fires.
+Demonstrated by thinking and actions that respond to an immediate problem or need. Individuals who are mostly thinking and acting tactically may find they are often too busy putting out fires to investigate their root causes.
 
 ## Tactical & Strategic
 
@@ -30,4 +30,4 @@ Demonstrated by displaying a balance between tactical and strategic thinking/act
 
 ## Mostly Strategic
 
-Demonstrated by longer term thinking/actions that allow teams, departments and organisations to plan and deal with problems/needs carefully and proactively. Individuals with a wide sphere of influence should be primarily thinking and acting strategically and over a longer horizon.
+Demonstrated by longer term thinking/actions that allow teams, departments and organisations to plan and deal with problems/needs carefully and proactively. Individuals with a wide sphere of influence should primarily be thinking and acting strategically and over a longer horizon.

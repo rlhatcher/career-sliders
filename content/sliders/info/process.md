@@ -18,16 +18,16 @@ weight: 2
 
 ## Ignore It
 
-Demonstrated by disengaging with a process and/or not following it. Individuals who ignore process are either doing so out of negligence or by actively and consciously ignoring a process without making attempts to challenge and improve it.
+Demonstrated by disengaging with a process and/or not following it. Individuals who ignore process are either doing so out of negligence or by actively and consciously ignoring a process without making attempts to challenge or improve it.
 
 ## Follow It
 
-Demonstrated by following a pre-defined process. Individuals who follow process will often do so without challenge even if the process is no longer valid or fits the circumstances.
+Demonstrated by following a pre-defined process. Individuals who follow process will often do so without challenge even if the process is no longer valid or doesn't fit the situation.
 
 ## Challenge It
 
-Demonstrated by challenging an existing process **and** proposing an alternative. Individuals who challenge process aren't afraid to question the status quo and come with a different or new process (or suggest the removal of an existing one).
+Demonstrated by challenging an existing process **and** proposing an alternative. Individuals who challenge processes aren't afraid to question the status quo and come with a different or new process (or suggest the removal of an existing one).
 
 ## Set It
 
-Demonstrated by creating process that **make things better** and taking the time to ensure the process is understood, and, importantly, that the process tackles the problem(s) it was designed to solve. Individuals who set processes that make things better involve others in the process, gather feedback and iterate, but, ultimately, they aren't afraid to make a decision and try something out.
+Demonstrated by creating processes that **make things better** and taking the time to ensure the process is understood, and that the process tackles the problem(s) it was designed to solve. Individuals who set processes that make things better involve others in the process, gather feedback and iterate, but, ultimately they aren't afraid to make a decision and try something out.

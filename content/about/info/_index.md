@@ -23,19 +23,20 @@ menu:
 
 ## Welcome to **Career Sliders**!
 
-In most organisations, it's fairly commonplace to have conversations around **what** is expected of an individual in relation to their role. We often use **goal-setting** as a means of providing some structure around these conversations. What is more challenging, however, is finding methods to frame conversations around **how** goals are being achieved and, in general, **how** individuals are conducting themselves in their day-to-day activities.
+In most organisations, it's common to have conversations around **what** is expected of an individual in relation to their role. We often use **goal-setting** as a way of structuring these conversations. The bigger challenge is finding ways of framing conversations about **how** goals are being achieved and, **how** individuals are conducting themselves in their general day-to-day activities.
 
 In some organisations, the **how** even forms part of the performance review process, but often there is little guidance for individuals on what is expected of them behaviourally, and even less guidance for managers on how to have these conversations successfully.
 
-After several years of having unstructured conversations with team members around the **how**, I was finding more and more that:
+After several years of having unstructured conversations with team members about the **how**, I increasingly found that:
 
-1. There were common behavioural themes that the conversations tended to centre around
+1. Conversations tended to centre around certain behavioural themes
 1. Graphical representations made the conversations more successful
 
-{{< icon name="lightbulb" pack="fas" >}} And so the idea of representing these common behavioural themes and levels as a series of **Career Sliders** was born.
+{{< icon name="lightbulb" pack="fas" >}} And so the idea of representing these behavioural themes as a series of **Career Sliders** was born.
 
-{{< icon name="eye" pack="fas" >}} See [**Sliders Introduction**](../../about/info/sliders-intro/) for more information about what a career slider is and [**Guidance for Individuals**](../../about/info/individuals/) and [**Guidance for Managers**](../../about/info/managers/) for more information about the types of scenarios in which **Career Sliders** can be useful.
+{{< icon name="eye" pack="fas" >}} See [**Sliders Introduction**](../../about/info/sliders-intro/) for more information about what Career Sliders are and [**Guidance for Individuals**](../../about/info/individuals/) and [**Guidance for Managers**](../../about/info/managers/) to find out about the scenarios in which **Career Sliders** can be useful.
 
-When you understand what the Sliders are and how you can use them, view the [**Sliders**](../../sliders/info/change).
+Once you understand what the Sliders are and how you can use them, view the [**Sliders**](../../sliders/info/change).
 
 ![escalator image](escalator.jpg)
+<sup>Image credit: Maria Teneva at [Unsplash](unsplash.com)</sup>

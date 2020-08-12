@@ -18,7 +18,7 @@ weight: 4
 
 ## Avoid It
 
-Demonstrated by avoiding situations in which feedback may be given or received. Individuals who avoid feedback tend to find receiving unsolicited feedback particularly challenging.
+Demonstrated by avoiding situations in which feedback may be given or received. Individuals who avoid feedback tend to find unsolicited feedback particularly challenging.
 
 ## Excuse It
 
@@ -26,8 +26,8 @@ Demonstrated by receiving feedback but not taking personal responsibility for it
 
 ## Seek It
 
-Demonstrated by proactively seeking feedback from others (but not necessarily proactively acting on it). Individuals who seek feedback tend to react well when receiving feedback and proaactively search for opportunities to receive it.
+Demonstrated by proactively seeking feedback from others (but not necessarily proactively acting on it). Individuals who seek feedback tend to react well when receiving feedback and proactively search for opportunities to receive it.
 
 ## Embrace It
 
-Demonstrated by proactively seeking feedback from others at every opportunity and acting on it. Individuals who embrace feedback tend to react well when receiving feedback and proactively dig deeper to understand how they can improve.
+Demonstrated by proactively seeking feedback from others at every opportunity and acting on it. Individuals who embrace feedback tend to react well to feedback and proactively dig deeper to understand how they can improve.

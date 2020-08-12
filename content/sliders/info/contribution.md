@@ -18,11 +18,11 @@ weight: 6
 
 ## Disengaged
 
-Demonstrated by disengaging from contributing to individual or team tasks or activities. An individual being disengaged in contributing represents a serious behavioural issue that requires further investigation.
+Demonstrated by not contributing to individual or team tasks or activities. A disengaged individual presents a significant concern and requires further investigation.
 
 ## Supported
 
-Demonstrated by contributing to tasks/activities with the support of others. Individuals at the beginning of their career or in a new role can expect to be supported in the completion of tasks and activities but this should always be a transient state.
+Demonstrated by contributing to tasks/activities with no support from other people. Individuals at the beginning of their career or in a new role can expect to be supported in the completion of tasks and activities but this should always be a transient state.
 
 ## Independent
 
@@ -30,4 +30,4 @@ Demonstrated by contributing to tasks/activities with limited or no support from
 
 ## Supporter
 
-Demonstrated by supporting others to contribute to tasks/activities. Individuals who largely support others will likely also contribute independently to tasks/activities depending on the circumstances.
+Demonstrated by supporting others to contribute to tasks/activities. Individuals who largely support others will probably also contribute independently to tasks/activities depending on the circumstances.

@@ -18,11 +18,11 @@ weight: 8
 
 ## Neglect It
 
-Demonstrated by seeking others to provide instructions/answers/solutions without first trying to learn a particular area. Individuals who neglect knowledge often expect problems to be solved by others.
+Demonstrated by asking others to provide instructions, answers or solutions without first trying to learn for themselves. Individuals who neglect knowledge often expect problems to be solved by others.
 
 ## Learn It
 
-Demonstrated by learning what is necessary to perform a role – either self-directed or from others. Individuals who demonstrate learning without mastering are often more junior in their career but, again, this should be a transient state before moving on to mastering.
+Demonstrated by learning what is necessary to perform a role – either self-directed or from others. Individuals who demonstrate learning without mastering are often more junior in their career but this should be a temporary state before moving on to mastering.
 
 ## Master It
 
@@ -30,4 +30,4 @@ Demonstrated by becoming an expert in a particular area and/or learning what mig
 
 ## Teach It
 
-Demonstrated by teaching skills and expertise that has been mastered to others. Individuals may display behaviours of teaching skills and/or expertise whilst also mastering and/or learning others.
+Demonstrated by teaching the skills and expertise they have mastered to other people. Individuals may display behaviours of teaching skills and/or expertise while also mastering and/or learning others.
