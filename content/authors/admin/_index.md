@@ -76,9 +76,9 @@ Professionally, I've been managing people and leading teams in the technology se
 
 More recently my focus has switched towards managing managers. Helping ordinary managers become awesome managers is where my real passion lies.
 
-I live in a town called Canterbury in the South East of England in the UK where share a home with my husband and son.
+I live in a town called Canterbury in the South East of England in the UK where I share a home with my husband and son.
 
-Becoming a mother has been both the most rewarding and the most challenging experience of my life. Juggling parenthood with full-time work is a balancing act tI'm still working on, but I wouldn't have it any other way.
+Becoming a mother has been both the most rewarding and the most challenging experience of my life. Juggling parenthood with full-time work is a balancing act I'm still working on, but I wouldn't have it any other way.
 
 I created Career Sliders as a way of visualising a range of professional behaviours within common themes. The aim is to help individuals to grow and to help managers frame conversations about behavioural growth.
 
