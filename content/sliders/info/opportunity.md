@@ -18,7 +18,7 @@ weight: 10
 
 ## Waste It
 
-Demonstrated by not taking an opportunity to learn, grow and/or give back. Individuals who waste opportunities are likely also disengaged and further investigation is required.
+Demonstrated by **not** taking an opportunity to learn, grow and/or give back. Individuals who waste opportunities are likely also disengaged and further investigation is required.
 
 ## Take It
 

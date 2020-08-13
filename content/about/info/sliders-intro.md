@@ -22,7 +22,7 @@ These Career Sliders are not based on an exhaustive list of professional behavio
 
 Career Sliders are relevant to people on the **individual contributor track** or on the **management track**. They are helpful to both individuals and to managers looking to help their team members understand their strengths and where they need to grow.
 
-Career Sliders are also **industry-agnostic**.
+Career Sliders are also industry-agnostic.
 
 ## What does it represent?
 

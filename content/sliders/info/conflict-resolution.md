@@ -18,7 +18,7 @@ weight: 3
 
 ## Detach From It
 
-Demonstrated by not engaging with conflict resolution and/or solely identifying the actions of others that contributed to a conflict. Individuals who detach from conflict resolution tend not to reflect on their own actions in relation to a conflict.
+Demonstrated by **not** engaging with conflict resolution and/or solely identifying the actions of others that contributed to a conflict. Individuals who detach from conflict resolution tend not to reflect on their own actions in relation to a conflict.
 
 ## Escalate It
 

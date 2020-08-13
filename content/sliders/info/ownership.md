@@ -18,7 +18,7 @@ weight: 11
 
 ## Resist It
 
-Demonstrated by a lack of ownership of individual or team tasks and/or by actively avoiding ownership when asked or expected. Individuals operating at this level are likely also disengaged.
+Demonstrated by a lack of ownership of individual or team tasks and/or by actively avoiding ownership when asked or expected. Individuals operating at this level are likely also disengaged and further investigation is required.
 
 ## Deflect It
 

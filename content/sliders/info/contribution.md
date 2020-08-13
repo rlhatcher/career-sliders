@@ -18,7 +18,7 @@ weight: 6
 
 ## Disengaged
 
-Demonstrated by not contributing to individual or team tasks or activities. A disengaged individual presents a significant concern and requires further investigation.
+Demonstrated by **not** contributing to individual or team tasks or activities. A disengaged individual presents a significant concern and requires further investigation.
 
 ## Supported
 

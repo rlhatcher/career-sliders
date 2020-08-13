@@ -18,7 +18,7 @@ weight: 1
 
 ## Resist It
 
-Demonstrated by either not engaging with change initiatives or by fighting them. Individuals who are resisting change will openly (or sometimes secretly) object to changes and are likely to 'recruit' others to the cause.
+Demonstrated by either **not** engaging with change initiatives or by fighting them. Individuals who are resisting change will openly (or sometimes secretly) object to changes and are likely to 'recruit' others to the cause.
 
 ## Embrace It
 

@@ -18,7 +18,7 @@ weight: 7
 
 ## Governed
 
-Demonstrated by simply responding to instructions from others without understanding the problem or need or making efforts to. Individuals who are displaying governed-like behaviours are likely to also be disengaged.
+Demonstrated by simply responding to instructions from others without understanding the problem/need or making efforts to. Individuals who are displaying governed-like behaviours are likely to also be disengaged and further investigation is required.
 
 ## Mostly Tactical
 
