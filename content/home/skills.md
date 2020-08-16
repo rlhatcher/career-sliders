@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Acknowledgements"
@@ -21,14 +21,14 @@ subtitle = ""
   description = "For helping me build and host the website"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "graham"
+  icon_pack = "custom"
   name = "Graham Uphill"
   description = "For reviewing the Sliders and helping me tweak them"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
+  icon = "andrew"
+  icon_pack = "custom"
   name = "Andrew Rogers"
   description = "For proof-reading and helping me polish the site content"
 
