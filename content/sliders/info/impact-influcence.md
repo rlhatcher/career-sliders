@@ -8,10 +8,10 @@ draft: false
 menu:
   sliders:
     parent: Career Sliders
-    weight: 12
+    weight: 13
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 12
+weight: 13
 ---
 
 ![impact/influence slider](../impact-slider.svg)

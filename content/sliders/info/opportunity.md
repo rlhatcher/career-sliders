@@ -8,10 +8,10 @@ draft: false
 menu:
   sliders:
     parent: Career Sliders
-    weight: 10
+    weight: 11
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 10
+weight: 11
 ---
 
 ![opportunity slider](../opportunity-slider.svg)
