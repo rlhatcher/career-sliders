@@ -30,4 +30,4 @@ Demonstrated by finding ways to get around blockers and obstacles. Individuals w
 
 ## Remove It
 
-Demonstrated by proactively seeking to remove blockers and obstacles in whatever way possible to reach the originally intended successful outcome. Individuals who jump over obstacles are persistent and resilient and understand that reaching a successful outcome requires the ability to influence; the creativity to find ways to bring non-supporters on board; the tenacity to keep going when progress is slow; and the effort to see a task or change through to completion.
+Demonstrated by proactively seeking to remove blockers and obstacles in whatever way possible to reach the originally intended successful outcome. Individuals who remove obstacles are persistent and resilient and understand that reaching a successful outcome requires the ability to influence; the creativity to find ways to bring non-supporters on board; the tenacity to keep going when progress is slow; and the effort to see a task or change through to completion.

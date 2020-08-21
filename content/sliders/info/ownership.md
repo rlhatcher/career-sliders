@@ -22,7 +22,7 @@ Demonstrated by a lack of ownership of individual or team tasks and/or by active
 
 ## Deflect It
 
-Demonstrated by making excuses for lack of ownership and/or looking to other people to own a task instead of taking responsibility themselves. Individuals operating at this level may also claim ownership for an activity or task despite seeking others to take ownership.
+Demonstrated by making excuses for lack of ownership and/or looking to other people to own a task instead of taking responsibility themselves. Individuals operating at this level may also claim ownership for an activity or task despite having asked others to do the work.
 
 ## Comply With It
 
@@ -30,4 +30,4 @@ Demonstrated by reluctantly complying with instructions to own a task. Individua
 
 ## Own It
 
-Demonstrated by owning a task in its entirety and actively seeking opportunities for ownership. Individuals operating at this level will often identify an activity or task that doesn't have a clear owner, take it on and drive it through to successful completion.
+Demonstrated by owning a task in its entirety and actively seeking opportunities for ownership. Individuals operating at this level will often identify an activity or task that doesn't have a clear owner, take it on and drive it through to a successful completion.
