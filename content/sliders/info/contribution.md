@@ -22,7 +22,7 @@ Demonstrated by **not** contributing to individual or team tasks or activities. 
 
 ## Supported
 
-Demonstrated by contributing to tasks/activities with no support from other people. Individuals at the beginning of their career or in a new role can expect to be supported in the completion of tasks and activities but this should always be a transient state.
+Demonstrated by contributing to tasks/activities with support from other people. Individuals at the beginning of their career or in a new role can expect to be supported in the completion of tasks and activities but this should always be a transient state.
 
 ## Independent
 
