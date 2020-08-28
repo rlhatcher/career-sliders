@@ -36,7 +36,7 @@ After several years of having unstructured conversations with team members about
 
 {{< icon name="eye" pack="fas" >}} See [**Sliders Introduction**](../../about/info/sliders-intro/) for more information about what Career Sliders are and [**Guidance for Individuals**](../../about/info/individuals/) and [**Guidance for Managers**](../../about/info/managers/) to find out about the scenarios in which **Career Sliders** can be useful.
 
-Once you understand what the Sliders are and how you can use them, take a look at the [**Sliders**](../../sliders/info/change).
+Once you understand what the Sliders are and how you can use them, take a look at the [**Sliders**](../../sliders/info/).
 
 ![escalator image](escalator.jpg)
 <sup>Image credit: Maria Teneva at [Unsplash](unsplash.com)</sup>
