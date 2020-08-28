@@ -24,12 +24,60 @@ menu:
 
 ### Welcome to the home of the Sliders
 
-{{< icon name="book" pack="fas" >}} You've [read](../../about/info) about what Career Sliders are
+Here you can find a quick view of all the Career Sliders. Click on the link for each Slider to see the accompanying text and full explanation.
 
-{{< icon name="chart-line" pack="fas" >}} You've thought about how you might use them
+**Change** - [*See here for more details*](change)
 
-{{< icon name="eye" pack="fas" >}} You're ready to view the [Career Sliders!](../../sliders/info/change)
+![change slider](change-slider.svg)
 
-_**Don't be constrained by the Career Sliders listed here. You can always create your own.**_
+**Process** - [*See here for more details*](process)
+
+![process slider](process-slider.svg)
+
+**Conflict Resolution** - [*See here for more details*](conflict-resolution)
+
+![conflict resolution slider](conflict-resolution.svg)
+
+**Feedback** - [*See here for more details*](feedback)
+
+![feedback slider](feedback-slider.svg)
+
+**Taking Risks** - [*See here for more details*](taking-risks)
+
+![risk slider](risk-slider.svg)
+
+**Contribution** - [*See here for more details*](contribution)
+
+![contribution slider](contribution-slider.svg)
+
+**Thinking/Acting** - [*See here for more details*](thinking)
+
+![thinking slider](thinking-slider.svg)
+
+**Knowledge** - [*See here for more details*](knowledge)
+
+![knowledge slider](knowledge-slider.svg)
+
+**Information Processing** - [*See here for more details*](information-processing)
+
+![information processing slider](information-processing.svg)
+
+**Obstacles** - [*See here for more details*](obstacles)
+
+![obstacles slider](obstacles-slider.svg)
+
+**Opportunity** - [*See here for more details*](opportunity)
+
+![opportunity slider](opportunity-slider.svg)
+
+**Ownership** - [*See here for more details*](ownership)
+
+![ownership slider](ownership-slider.svg)
+
+**Impact/Influence** - [*See here for more details*](impact-influence)
+
+![impact slider](impact-slider.svg)
+
+## Advance your career with...
 
 ![sliders logo blue green](sliders-hero-blue-green.png)
