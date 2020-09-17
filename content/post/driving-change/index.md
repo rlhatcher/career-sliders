@@ -45,9 +45,9 @@ The four main types of change I've come across are transformational, people-cent
 
 **People-centric** changes may be local or involve large parts or the whole of an organisation - for example, changes to roles and responsibilities or changes to policies.
 
-**Structural** changes may also be local or involve large parts or the whole of an oragnisation - for example, hierarchical, line management or team membership changes.
+**Structural** changes may also be local or involve large parts or the whole of an organisation - for example, hierarchical, line management or team membership changes.
 
-**Cultural** changes may also be local or involve large parts or the whole of an oragnisation - for example, creating a culture of feedback or creating a culture of putting quality first. Cultural changes are perhaps the hardest to affect because they are difficult, if not impossible, to enforce; take longer to embed; and are often harder to measure.
+**Cultural** changes may also be local or involve large parts or the whole of an organisation - for example, creating a culture of feedback or creating a culture of putting quality first. Cultural changes are perhaps the hardest to affect because they are difficult, if not impossible, to enforce; take longer to embed; and are often harder to measure.
 
 In addition to these four types of change, there are also changes that you **need** to make and changes that you'd **like** to make. Changes that you **need** to make might be due to changes in regulations, the environment, the economy, or perhaps a decision has been made in another part of the business that you need to comply with. Even for changes that you **need** to make, you will often have some latitude around **how** you make that change.
 
