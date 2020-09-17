@@ -206,7 +206,7 @@ In the case of a cultural change, this step is key (but is often still important
 
 When can you stop? Only when everyone is on board with the change. 
 
-There is no prescribed period for how long it takes for a change or new habits to be embedded, but I can tell you it almost always takes longer than you'd like.
+There is no prescribed period for how long it takes for a change or new habits to be embedded, but I can tell you it almost always takes longer than you'd like or expect.
 
 Relentless repetition via 1:1s, team meetings, emails or any other appropriate method is a key element to making the change stick.
 
@@ -214,7 +214,7 @@ Relentless repetition via 1:1s, team meetings, emails or any other appropriate m
 
 You've assured everyone that the change isn't set in stone and it will continuously be reviewed - it's time to stay true to your word. Ensure everyone understands how they can provide feedback in an ad-hoc fashion and also ensure you have structured reviews and proactive opportunties for feedback in place as soon as you implement the change.
 
-To ensure I don't leave this stage at the mercy of my memory, whenever I implement a change, I meticulously book reminders into my calendar, and/or those impacted by the change, for formal review sessions, with yet further reminders to prompt for feedback before those review sessions.
+To ensure I don't leave this stage at the mercy of my memory, whenever I implement a change, I meticulously book reminders into my calendar and/or the calendars of those impacted by the change for formal review sessions, with yet further reminders created to prompt for feedback before those review sessions.
 
 The form you choose for feedback and review is, again, a matter of preference. I'm personally a fan of anonymous surveys and have found I tend to get the most honest feedback this way but use whatever works for you.
 
