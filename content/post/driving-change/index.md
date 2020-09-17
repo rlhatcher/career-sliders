@@ -210,7 +210,7 @@ Relentless repetition via 1:1s, team meetings, emails or any other appropriate m
 
 #### Step 13 - Retrospect
 
-You've assured everyone that the change isn't set in stone and it will continuously be reviewed - it's time to stay true to your word. Ensure everyone understand how they can provide feedback in an ad-hoc fashion and also ensure you have structured reviews and proactive opportunties for feedback in place as soon as you implement the change.
+You've assured everyone that the change isn't set in stone and it will continuously be reviewed - it's time to stay true to your word. Ensure everyone understands how they can provide feedback in an ad-hoc fashion and also ensure you have structured reviews and proactive opportunties for feedback in place as soon as you implement the change.
 
 To ensure I don't leave this stage at the mercy of my memory, whenever I implement a change, I meticulously book reminders into my calendar, and/or those impacted by the change, for formal review sessions, with yet further reminders to prompt for feedback before those review sessions.
 
