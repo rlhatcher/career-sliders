@@ -216,7 +216,7 @@ To ensure I don't leave this stage at the mercy of my memory, whenever I impleme
 
 The form you choose for feedback and review is, again, a matter of preference. I'm personally a fan of anonymous surveys and have found I tend to get the most honest feedback this way but use whatever works for you.
 
-It's also crucial what you do with that feedback. I tend to share a summary of the feedback with those affected by the change including any course-correction actions I plan to take based on that feedback. Being transparent about what you have done of plan to do with feedback will determine how likely you are to receive feedback in the future.
+It's also crucial what you do with that feedback. I tend to share a summary of the feedback with those affected by the change including any course-correction actions I plan to take based on that feedback. Being transparent about what you have done or plan to do with feedback will determine how likely you are to receive feedback in the future.
 
 Seeking feedback is one way of measuring the success of a change and adapting accordingly, but if other measurement methods have been identified, this is when you need to start reviewing those metrics and being transparent about them.
 
