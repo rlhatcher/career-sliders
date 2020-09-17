@@ -102,7 +102,7 @@ As mentioned above, this step is crucial. Simply put, no change will be successf
 
 #### Step 2 - Understand the current situation
 
-At this stage, I talk to a lot of people - mostly in a 1:1 setting - to understand how things are today, why they are the way they are, and any historical context relating to the current situation. I add all information relating to the current situation to my notes.
+To understand the current situation, I talk to a lot of people - mostly in a 1:1 setting. I want to know how things are today, why they are the way they are, and any historical context relating to the current situation. I add all information relating to the current situation to my notes.
 
 #### Step 3 - Plant some early seeds
 
@@ -120,7 +120,7 @@ Now that I have a/some potential end states in mind, I start thinking in more de
 
 #### Step 6 - Consider the implementation options
 
-At this stage I start thinking about the implementation of the change. Do I think the change warrants a big bang approach or would it likely be more successful as a phased approach? What are the benefits and risks of each approach? Are there small changes that can be made now? Do I want to start small before rolling out wider? The type of change very much determines the options but it's important you consider all of them.
+Then I start thinking about the implementation of the change. Do I think the change warrants a big bang approach or would it likely be more successful as a phased approach? What are the benefits and risks of each approach? Are there small changes that can be made now? Do I want to start small before rolling out wider? The type of change very much determines the options but it's important you consider all of them.
 
 Unless there is a business need for an immediate change, I caution against pushing for a big bang approach purely because you want to create change faster. There are times when a big bang approach is still the best option, but don't do it because of impatience. Do it because the benefits and risks of making the change all at once outweigh the benefits and risks of implementing the change in smaller chunks.
 
