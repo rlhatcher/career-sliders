@@ -145,9 +145,11 @@ Now that you have a proposal for a change, it's time to get some more detailed f
 Generally, I conduct this feedback stage 1:1 with a selection of people that includes some trusted peers; some peers who generally have a different perspective from me; and, depending on the sensitivity associated with the change, some people who will be directly affected by the change. Conducting these conversations 1:1 produces much higher quality feedback and elicits a much higher response rate than requesting feedback from a group. 
 
 This stage is crucial. It allows me to:
-1.  Get a sense of how the change will be received
-2.  Identify blind spots, and
-3. Gather different perspectives.
+
+1. Get a sense of how the change will be received
+2. Identify blind spots
+3. Gather different perspectives
+4. Ensure people feel like they're part of the solution
 
 The outcome of this step is normally a fair amount of proposal tweaking. 
 
