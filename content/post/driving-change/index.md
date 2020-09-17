@@ -154,7 +154,7 @@ The outcome of this step is normally a fair amount of proposal tweaking.
 What is important at this stage though is to set yourself a clear deadline for when this step will be complete. You can get lost going back and forth in a feedback/tweak loop forever and at some point you need to settle on a proposal, bite the bullet and get on with it. The following are important points to consider at this stage:
 
 * Changes should be beneficial to most but are very unlikely to be beneficial to all. Don't get lost trying to please all of the people all of the time. You're invariably going to upset some folk but you have to consider the benefits and risks holistically.
-* There is rarely a perfect solution and the only way to really know if a change will be successful is to do it. Don't delay searching for perfect when good enough will allow us to make the change and get some real feedback on whether the change addresses the problems it was set out to change.
+* There is rarely a perfect solution and the only way to really know if a change will be successful is to do it. Don't delay searching for perfect when good enough will allow us to make the change and get some real feedback on whether the change addresses the problems it was set out to address.
 
 The outcome of this step is a proposal you're ready to start sharing wider.
 
