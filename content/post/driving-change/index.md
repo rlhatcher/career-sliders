@@ -61,7 +61,7 @@ There are really only three ways to implement a change:
 
 The type of implementation that is best suited to the type of change you want to make very much depends on the change and might not necessarily be obvious up front so it's important to consider all options.
 
-## Next, some fundamentals principles
+## Next, some fundamental principles
 
 ### You need to understand the why
 
