@@ -18,16 +18,16 @@ weight: 12
 
 ## Resist It
 
-Demonstrated by a lack of ownership of individual or team tasks and/or by actively avoiding ownership when asked or expected. Individuals operating at this level are likely also disengaged and further investigation is required.
-
-## Deflect It
-
-Demonstrated by making excuses for lack of ownership and/or looking to other people to own a task instead of taking responsibility themselves. Individuals operating at this level may also claim ownership for an activity or task despite having asked others to do the work.
+Demonstrated by a lack of ownership of individual or team tasks and/or by actively avoiding ownership when asked or expected. Also demonstrated by deflecting ownership on to others. Individuals operating at this level are likely also disengaged in and further investigation is required.
 
 ## Comply With It
 
-Demonstrated by reluctantly complying with instructions to own a task. Individuals operating at this level will take ownership of a task when asked to do so but often don't take an activity or task across the line. Complying individuals will also rarely seek opportunities to take ownership of activities or tasks which are otherwise unowned.
+Demonstrated by reluctantly complying with instructions to own a task when asked or required to do so. Individuals operating at this level will take on ownership of a task when asked to do so but will often take their eye off the ball with tasks not reaching successful completion unless steered by others. Complying individuals will also rarely seek opportunities to take ownership of activities or tasks which are otherwise unowned.
 
 ## Own It
 
-Demonstrated by owning a task in its entirety and actively seeking opportunities for ownership. Individuals operating at this level will often identify an activity or task that doesn't have a clear owner, take it on and drive it through to a successful completion.
+Demonstrated by owning a task in its entirety when asked or required to do so. Individuals operating at this level will often reliably take on ownership and drive associated activities through to successful completion but are less likely to seek out opportunities independently for ownership.
+
+## Seek It
+
+Demonstrated not only by owning asks in their entirety but also by proactively seeking opportunities to take on ownership and create ownership opportunities for others. Individuals operating at this level will often identify an activity or task that doesn't have a clear owner, take it on and drive it through to a successful completion.
