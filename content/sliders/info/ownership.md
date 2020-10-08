@@ -18,7 +18,7 @@ weight: 12
 
 ## Resist It
 
-Demonstrated by a lack of ownership of individual or team tasks and/or by actively avoiding ownership when asked or expected. Also demonstrated by deflecting ownership on to others. Individuals operating at this level are likely also disengaged in and further investigation is required.
+Demonstrated by a lack of ownership of individual or team tasks and/or by actively avoiding ownership when asked or expected. Also demonstrated by deflecting ownership on to others. Individuals operating at this level are likely also disengaged and further investigation is required.
 
 ## Comply With It
 
