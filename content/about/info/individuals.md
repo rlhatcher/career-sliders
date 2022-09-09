@@ -38,4 +38,4 @@ You can use the Career Sliders in conversations with your manager and others to 
 
 ## As a tool to get feedback from others
 
-The Career Sliders can be used as a tool to ask for focused feedback from others. You can ask them to provide you with feedback (directly or anonymously) on where they think you are on the Sliders and use this feedback to identify your strengths and growth areas.
+The Career Sliders can be used as a tool to ask for focused feedback from others. You can ask them to provide you with feedback (directly or anonymously) on where they think you are on the Sliders and why, and use this feedback to identify your strengths and growth areas.
