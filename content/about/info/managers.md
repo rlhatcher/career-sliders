@@ -26,7 +26,7 @@ Whether or not performance reviews at your organisation include assessing **how*
 
 ## To deliver difficult feedback
 
-Having difficult feedback conversations with your team members is one of the more challenging aspects of being a manager. It's a tough but necessary evil if you care about the growth and development of your team members. Having these conversations without a structure is even more challenging and here's where Career Sliders can come in handy.
+Having difficult feedback conversations with your team members is one of the more challenging aspects of being a manager. It's a tough but necessary activity if you care about the growth and development of your team members. Having these conversations without a structure is even more challenging and here's where Career Sliders can come in handy.
 
 You can use the Career Sliders - any number of them, or just one - to help team members visualise and understand where they're at and where you expect them to be from a behavioural perspective.
 
