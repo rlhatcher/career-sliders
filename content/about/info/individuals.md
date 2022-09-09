@@ -20,7 +20,7 @@ _On this page you will find some examples of how you might use the Career Slider
 
 You can use the Career Sliders proactively to self-evaluate your behaviour relating to the themes. Regardless of your role or level, the more you can consistently push yourself over to the right, the better.
 
-From this exercise, you can identify some areas of strength that you might want to develop further and some areas where you might want to focus your growth efforts.
+From this exercise, you can identify some areas of strength that you might want to develop further and some areas of development where you might want to focus your growth efforts.
 
 If, during the exercise, you're unclear as to what's expected of you in your role, use the Career Sliders to get a better understanding from your manager.
 
