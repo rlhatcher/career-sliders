@@ -30,4 +30,4 @@ Demonstrated by owning a task in its entirety when asked or required to do so. I
 
 ## Seek It
 
-Demonstrated not only by owning asks in their entirety but also by proactively seeking opportunities to take on ownership and create ownership opportunities for others. Individuals operating at this level will often identify an activity or task that doesn't have a clear owner, take it on and drive it through to a successful completion.
+Demonstrated not only by owning tasks in their entirety but also by proactively seeking opportunities to take on ownership and create ownership opportunities for others. Individuals operating at this level will often identify an activity or task that doesn't have a clear owner, take it on and drive it through to a successful completion.
