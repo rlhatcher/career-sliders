@@ -236,4 +236,4 @@ Change is hard. Most people don't like change and so creating change successfull
 
 Good luck!
 
-*Disclaimer - my way of driving change is not the only way. It's not even necessarily the best way, but it's a tried and tested method that I've refined over the years that has allowed me to successfully drive change. Do you have a different way? Let me know.*
+*Disclaimer - my way of driving change is not the only way. It's not even necessarily the best way, but it's a tried and tested method that I've refined over the years that has allowed me to successfully drive change that sticks. Do you have a different way? Let me know.*
